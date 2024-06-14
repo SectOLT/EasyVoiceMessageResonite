@@ -10,7 +10,7 @@ namespace EasyVoiceMessage
         public override string Name => "EasyVoiceMessage";
         public override string Author => "Sox";
         public override string Version => "1.0.0";
-        public override string Link => "";
+        public override string Link => "https://github.com/Ryn-Fox/EasyVoiceMessageResonite/";
         public override void OnEngineInit()
         {
             Harmony harmony = new Harmony("net.Sox.EasyVoiceMessage");
